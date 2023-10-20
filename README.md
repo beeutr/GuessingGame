@@ -13,6 +13,6 @@
 5. If you use a Mac OS, open your Terminal. Select Applications and navigate to Terminal.
 6. Locate your "GuessingGame.jar" file and get your file path. Usually if you download a file, it will be under the "Downloads" folder.
 7. You can get the file path (if it's under Downloads) as Downloads\GuessingGame.jar
-8. On the Command Prompt, type in "java -jar yourfilepath.jar". Replace yourfile path with the actual file path of the GuessingGame.jar file
+8. On the Command Prompt, type in "java -jar yourfilepath.jar". Replace yourfile path with the actual file path of the GuessingGame.jar file.
    For example, java -jar Downloads\GuessingGame.jar
 9. Press Enter and enjoy the game 😄   
